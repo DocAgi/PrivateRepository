@@ -1,0 +1,2 @@
+Este repositorio se trata de un trabajo de clase del alumno David, bajo el alias en github de DocAgi, basado en el desconocido personaje del manga Blue Lock, se guardarán sus códigos y tareas, sientasé libre de usar su código para sus propios proyectos,
+como dijo el programador DValen, el buen programador es aquel que roba el codigo de los demás para sus proyectos, no puedes descubrir la rueda pero si tomarla prestada.
